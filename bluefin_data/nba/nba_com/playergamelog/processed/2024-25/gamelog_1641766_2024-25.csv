@@ -1,0 +1,4 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400212,2024-11-11,CHI vs. CLE,L,5.0,1,1,1.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,1,0,2,-1
+22400136,2024-11-01,CHI @ BKN,L,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+22400123,2024-10-30,CHI vs. ORL,W,9.0,2,4,0.5,0,0,0.0,0,0,0.0,1,0,1,1,0,0,0,1,4,-6

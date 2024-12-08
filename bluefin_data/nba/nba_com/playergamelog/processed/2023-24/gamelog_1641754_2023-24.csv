@@ -1,0 +1,10 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22300626,2024-01-24,ATL @ GSW,L,3.0,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,0,0,-2
+22300595,2024-01-20,ATL vs. CLE,L,3.0,1,2,0.5,1,2,0.5,0,0,0.0,0,0,0,0,0,0,0,0,3,3
+22300543,2024-01-13,ATL vs. WAS,L,5.0,0,1,0.0,0,0,0.0,1,2,0.5,0,2,2,0,0,0,0,1,1,1
+22300533,2024-01-12,ATL vs. IND,L,4.0,0,1,0.0,0,1,0.0,2,2,1.0,0,0,0,0,0,0,0,0,2,2
+22300480,2024-01-05,ATL @ IND,L,7.0,1,2,0.5,1,2,0.5,0,0,0.0,0,0,0,0,0,0,0,0,3,-2
+22300408,2023-12-26,ATL @ CHI,L,1.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-4
+22300393,2023-12-23,ATL vs. MEM,L,19.0,1,7,0.143,1,6,0.167,0,0,0.0,1,1,2,0,0,0,0,2,3,-9
+22300352,2023-12-18,ATL vs. DET,W,9.0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,2,0,1
+22300330,2023-12-15,ATL @ TOR,W,1.0,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,-3

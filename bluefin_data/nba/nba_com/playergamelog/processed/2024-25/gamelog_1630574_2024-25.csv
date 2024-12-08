@@ -1,0 +1,12 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400343,2024-12-07,NYK vs. DET,L,15.0,4,4,1.0,0,0,0.0,1,2,0.5,0,2,2,2,0,0,1,0,9,-13
+22400327,2024-12-05,NYK vs. CHA,W,1.0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-2
+22400053,2024-12-03,NYK vs. ORL,W,3.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-6
+22400308,2024-12-01,NYK vs. NOP,W,9.0,1,2,0.5,0,0,0.0,1,2,0.5,1,2,3,1,0,0,1,2,3,-6
+22400246,2024-11-18,NYK vs. WAS,W,6.0,1,1,1.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,2,2,-15
+22400014,2024-11-15,NYK vs. BKN,W,30.0,3,5,0.6,0,0,0.0,1,2,0.5,2,2,4,3,0,4,3,3,7,-4
+22400189,2024-11-08,NYK vs. MIL,W,3.0,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,0,0,2,0,-6
+22400134,2024-11-01,NYK @ DET,W,5.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,2,0,0
+22400106,2024-10-28,NYK vs. CLE,L,12.0,0,1,0.0,0,0,0.0,0,0,0.0,0,2,2,0,0,1,1,1,0,1
+22400081,2024-10-25,NYK vs. IND,W,6.0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,2,1,1,0,-5
+22400061,2024-10-22,NYK @ BOS,L,6.0,0,0,0.0,0,0,0.0,0,0,0.0,0,4,4,0,0,1,0,0,0,9

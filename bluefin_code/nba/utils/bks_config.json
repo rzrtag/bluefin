@@ -1,0 +1,28 @@
+{
+    "sportsbooks": {
+        "fd": {
+            "name": "FanDuel",
+            "abbreviation": "fd",
+            "book_id": "10",
+            "display_name": "FD"
+        },
+        "dk": {
+            "name": "DraftKings",
+            "abbreviation": "dk",
+            "book_id": "12",
+            "display_name": "DK"
+        },
+        "mgm": {
+            "name": "BetMGM",
+            "abbreviation": "mgm",
+            "book_id": "19",
+            "display_name": "MGM"
+        },
+        "espn": {
+            "name": "ESPN Bet",
+            "abbreviation": "espn",
+            "book_id": "33",
+            "display_name": "ESPN"
+        }
+    }
+} 

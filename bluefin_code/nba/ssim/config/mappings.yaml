@@ -1,0 +1,149 @@
+# SaberSim Data Mappings
+
+# Team Code Mappings
+team_codes:
+  "Atlanta Hawks": "ATL"
+  "Boston Celtics": "BOS"
+  "Brooklyn Nets": "BKN"
+  "Charlotte Hornets": "CHA"
+  "Chicago Bulls": "CHI"
+  "Cleveland Cavaliers": "CLE"
+  "Dallas Mavericks": "DAL"
+  "Denver Nuggets": "DEN"
+  "Detroit Pistons": "DET"
+  "Golden State Warriors": "GSW"
+  "Houston Rockets": "HOU"
+  "Indiana Pacers": "IND"
+  "Los Angeles Clippers": "LAC"
+  "Los Angeles Lakers": "LAL"
+  "Memphis Grizzlies": "MEM"
+  "Miami Heat": "MIA"
+  "Milwaukee Bucks": "MIL"
+  "Minnesota Timberwolves": "MIN"
+  "New Orleans Pelicans": "NOP"
+  "New York Knicks": "NYK"
+  "Oklahoma City Thunder": "OKC"
+  "Orlando Magic": "ORL"
+  "Philadelphia 76ers": "PHI"
+  "Phoenix Suns": "PHX"
+  "Portland Trail Blazers": "POR"
+  "Sacramento Kings": "SAC"
+  "San Antonio Spurs": "SAS"
+  "Toronto Raptors": "TOR"
+  "Utah Jazz": "UTA"
+  "Washington Wizards": "WAS"
+
+# Book Mappings
+book_codes:
+  "BettingPros Consensus": "bp"
+  "FanDuel": "fd"
+  "DraftKings": "dk"
+  "BetMGM": "mgm"
+  "ESPN Bet": "espn"
+  "PrizePicks": "pp"
+
+# Market ID Mappings
+market_ids:
+  "151": "AST"  # Assists
+  "152": "BLK"  # Blocks
+  "156": "PTS"  # Points
+  "157": "REB"  # Rebounds
+  "160": "STL"  # Steals
+  "162": "3PT"  # Threes
+  "335": "PA"   # Points + Assists
+  "336": "PR"   # Points + Rebounds
+  "337": "RA"   # Rebounds + Assists
+  "338": "PRA"  # Points + Rebounds + Assists
+
+# Market Name Mappings
+market_codes:
+  # Points
+  "Points": "PTS"
+  "Points Scored": "PTS"
+  "Player Points": "PTS"
+  "Total Points": "PTS"
+  "Points Over/Under": "PTS"
+  
+  # Rebounds
+  "Rebounds": "REB"
+  "Total Rebounds": "REB"
+  "Player Rebounds": "REB"
+  "Rebounds Over/Under": "REB"
+  
+  # Assists
+  "Assists": "AST"
+  "Total Assists": "AST"
+  "Player Assists": "AST"
+  "Assists Over/Under": "AST"
+  
+  # Threes
+  "Three Pointers Made": "3PT"
+  "3-PT Made": "3PT"
+  "Three Point FG": "3PT"
+  "Threes Made": "3PT"
+  "Threes Over/Under": "3PT"
+  "3Pts Made": "3PT"
+  
+  # Blocks
+  "Blocks": "BLK"
+  "Total Blocks": "BLK"
+  "Player Blocks": "BLK"
+  "Blocks Over/Under": "BLK"
+  
+  # Steals
+  "Steals": "STL"
+  "Total Steals": "STL"
+  "Player Steals": "STL"
+  "Steals Over/Under": "STL"
+  
+  # Turnovers
+  "Turnovers": "TOV"
+  "Total Turnovers": "TOV"
+  "Player Turnovers": "TOV"
+  "Turnovers Over/Under": "TOV"
+  
+  # Combined
+  "Points + Rebounds + Assists": "PRA"
+  "Points + Assists + Rebounds": "PRA"
+  "Points + Rebounds": "PR"
+  "Points + Assists": "PA"
+  "Rebounds + Assists": "RA"
+  "Blocks + Steals": "STOCKS"
+  "Points + Rebounds + Assists Over/Under": "PRA"
+  "Points + Rebounds Over/Under": "PR"
+  "Points + Assists Over/Under": "PA"
+  "Rebounds + Assists Over/Under": "RA"
+
+# Name Standardization
+name_fixes:
+  "Bam Adebayo": "Edrice Adebayo"
+  "CJ McCollum": "Christian McCollum"
+  "DJ Augustin": "Darryl Augustin"
+  "JJ Redick": "Jonathan Redick"
+  "KJ Martin": "Kenyon Martin Jr."
+  "Lou Williams": "Louis Williams"
+  "Moe Wagner": "Moritz Wagner"
+  "PJ Tucker": "Paul Tucker"
+  "PJ Washington": "Paul Washington Jr."
+  "RJ Barrett": "Rowan Barrett Jr."
+  "Svi Mykhailiuk": "Sviatoslav Mykhailiuk"
+  "Trey Burke": "Anthony Burke III"
+  "Cam Thomas": "Cameron Thomas"
+  "Tre Jones": "Trey Jones"
+
+# Name Patterns to Clean
+name_patterns:
+  suffixes:
+    - " Jr."
+    - " Sr."
+    - " II"
+    - " III"
+    - " IV"
+    - " V"
+  prefixes:
+    - "Mr. "
+    - "Dr. "
+  special_chars:
+    - "."
+    - "'"
+    - "-"

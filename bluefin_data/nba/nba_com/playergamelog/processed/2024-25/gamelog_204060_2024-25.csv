@@ -1,0 +1,8 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400234,2024-11-17,MIN vs. PHX,W,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,3
+22400020,2024-11-15,MIN @ SAC,W,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+22400139,2024-11-01,MIN vs. DEN,W,5.0,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,1,0,0,1,0,0,0
+22400114,2024-10-29,MIN vs. DAL,L,4.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-7
+22400093,2024-10-26,MIN vs. TOR,W,6.0,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,4,0,0,0,3,0,1
+22400076,2024-10-24,MIN @ SAC,W,5.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,1,0,-1
+22400062,2024-10-22,MIN @ LAL,L,7.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,1,0,1

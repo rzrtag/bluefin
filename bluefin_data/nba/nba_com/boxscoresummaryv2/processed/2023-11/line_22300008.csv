@@ -1,0 +1,3 @@
+game_id,team_id,team,team_city,team_name,record,points,points_q1,points_q2,points_q3,points_q4,points_ot1,points_ot2,points_ot3,points_ot4
+22300008,1610612755,PHI,Philadelphia,76ers,7-1,114,21,27,35,31,0,0,0,0
+22300008,1610612765,DET,Detroit,Pistons,2-8,106,33,23,21,29,0,0,0,0

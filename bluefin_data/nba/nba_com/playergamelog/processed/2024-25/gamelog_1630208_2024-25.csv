@@ -1,0 +1,9 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400327,2024-12-05,CHA @ NYK,L,24.0,3,6,0.5,0,0,0.0,0,0,0.0,3,5,8,3,0,1,3,3,6,-6
+22400050,2024-12-03,CHA vs. PHI,L,30.0,6,9,0.667,0,0,0.0,10,13,0.769,4,10,14,2,1,1,2,2,22,9
+22400300,2024-11-30,CHA vs. ATL,L,25.0,3,5,0.6,0,0,0.0,6,7,0.857,1,5,6,1,1,3,1,6,12,-1
+22400132,2024-11-01,CHA vs. BOS,L,16.0,0,1,0.0,0,0,0.0,1,2,0.5,1,2,3,1,0,2,1,1,1,-6
+22400117,2024-10-30,CHA vs. TOR,W,33.0,10,14,0.714,0,0,0.0,4,7,0.571,7,7,14,4,1,4,1,3,24,-15
+22400088,2024-10-26,CHA vs. MIA,L,35.0,5,8,0.625,0,1,0.0,2,3,0.667,4,8,12,1,1,3,3,4,12,-8
+22400079,2024-10-25,CHA @ ATL,L,30.0,3,6,0.5,0,0,0.0,6,8,0.75,6,7,13,2,0,1,1,1,12,4
+22400068,2024-10-23,CHA @ HOU,W,24.0,3,4,0.75,0,0,0.0,0,2,0.0,2,6,8,1,0,2,1,5,6,-1

@@ -1,0 +1,7 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400319,2024-12-04,BOS vs. DET,W,3.0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-3
+22400316,2024-12-02,BOS vs. MIA,W,26.0,2,5,0.4,2,5,0.4,1,2,0.5,2,5,7,1,0,0,0,1,7,0
+22400307,2024-12-01,BOS @ CLE,L,25.0,2,6,0.333,2,5,0.4,2,2,1.0,1,3,4,0,1,0,1,4,8,0
+22400218,2024-11-13,BOS @ BKN,W,2.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-2
+22400104,2024-10-28,BOS vs. MIL,W,2.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-5
+22400073,2024-10-24,BOS @ WAS,W,4.0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,2,1,0,0,-7

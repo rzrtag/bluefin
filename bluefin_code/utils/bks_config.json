@@ -1,0 +1,53 @@
+{
+    "books": [
+        {
+        "book_id": 0,
+        "book_name": "BettingPros Consensus",
+        "abbreviation": "bp",
+        "url": "https://api.bettingpros.com/v3/props?limit=9999&page=1&sport=NBA&market_id=151:152:156:157:160:162:335:336:337:338:346&date=2024-10-25&location=KS&sort=diff&include_selections=true&include_markets=true&include_correlated_picks=true"
+       },
+        {
+        "book_id": 10,
+        "book_name": "FanDuel",
+        "abbreviation": "fd",
+        "url": "https://api.bettingpros.com/v3/props?limit=99999&page=1&sport=NBA&market_id=151:152:156:157:160:162:335:336:337:338:346&date={date}&location=KS&book_id=10&sort=diff&include_selections=true&include_markets=true&include_events=true"
+      },
+      {
+        "book_id": 12,
+        "book_name": "DraftKings",
+        "abbreviation": "dk",
+        "url": "https://api.bettingpros.com/v3/props?limit=99999&page=1&sport=NBA&market_id=151:152:156:157:160:162:335:336:337:338:346&date={date}&location=KS&book_id=12&sort=diff&include_selections=true&include_markets=true&include_events=true"
+      },
+      {
+        "book_id": 19,
+        "book_name": "BetMGM",
+        "abbreviation": "mgm",
+        "url": "https://api.bettingpros.com/v3/props?limit=99999&page=1&sport=NBA&market_id=151:152:156:157:160:162:335:336:337:338:346&date={date}&location=KS&book_id=19&sort=diff&include_selections=true&include_markets=true&include_events=true"
+      },
+      {
+        "book_id": 33,
+        "book_name": "ESPN Bet",
+        "abbreviation": "espn",
+        "url": "https://api.bettingpros.com/v3/props?limit=99999&page=1&sport=NBA&market_id=151:152:156:157:160:162:335:336:337:338:346&date={date}&location=KS&book_id=33&sort=diff&include_selections=true&include_markets=true&include_events=true"
+      },
+      {
+        "book_id": 37,
+        "book_name": "PrizePicks",
+        "abbreviation": "pp",
+        "url": "https://api.bettingpros.com/v3/props?limit=99999&page=1&sport=NBA&market_id=151:152:156:157:160:162:335:336:337:338:346&date={date}&location=KS&book_id=37&sort=diff&include_selections=true&include_markets=true&include_events=true"
+      }
+    ],
+    "base_url": "https://api.bettingpros.com/v3/props",
+    "default_params": {
+      "limit": 99999,
+      "page": 1,
+      "sport": "NBA",
+      "market_id": "151:152:156:157:160:162:335:336:337:338:346",
+      "location": "KS",
+      "sort": "diff",
+      "include_selections": true,
+      "include_markets": true,
+      "include_events": true,
+      "include_correlated_picks": true
+    }
+  }

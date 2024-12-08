@@ -1,0 +1,5 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400304,2024-11-30,DAL @ UTA,W,1.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+22400190,2024-11-08,DAL vs. PHX,L,2.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,1,0,0,-4
+22400176,2024-11-06,DAL vs. CHI,W,5.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-8
+22400110,2024-10-28,DAL vs. UTA,W,1.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-5

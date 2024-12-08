@@ -1,0 +1,114 @@
+# SaberSim Column Definitions
+
+# Core Fields
+core:
+  name: str  # Player name
+  team: str  # Team code
+  opponent: str   # Opponent team code
+  status: str  # Player status
+  timestamp: float  # Timestamp
+  version: str  # Data version
+
+# Game Context
+game:
+  game_id: str  # Unique game identifier
+  game_time: str  # Game start time
+  is_home: bool  # Whether player's team is home
+
+# Base Stats
+stats:
+  minutes: float  # Minutes
+  points: float  # Points
+  rebounds: float  # Rebounds
+  assists: float  # Assists
+  steals: float  # Steals
+  blocks: float  # Blocks
+  turnovers: float  # Turnovers
+  three_pt_fg: float  # Three pointers made
+
+# Detailed Stats
+detailed:
+  off_reb: float  # Offensive rebounds
+  def_reb: float  # Defensive rebounds
+  ft_made: float   # Free throws made
+  ft_att: float   # Free throw attempts
+  two_pt_made: float  # Two pointers made
+  two_pt_att: float   # Two point attempts
+  three_pt_made: float  # Three pointers made
+  three_pt_att: float  # Three point attempts
+
+# Percentiles (25th, 50th, 75th)
+percentiles:
+  minutes_25: float
+  minutes_50: float
+  minutes_75: float
+  points_25: float
+  points_50: float
+  points_75: float
+  rebounds_25: float
+  rebounds_50: float
+  rebounds_75: float
+  assists_25: float
+  assists_50: float
+  assists_75: float
+  steals_25: float
+  steals_50: float
+  steals_75: float
+  blocks_25: float
+  blocks_50: float
+  blocks_75: float
+  turnovers_25: float
+  turnovers_50: float
+  turnovers_75: float
+  three_pt_fg_25: float
+  three_pt_fg_50: float
+  three_pt_fg_75: float
+
+# Fantasy Points
+fantasy:
+  dk_proj: float   # DraftKings projection
+  fd_proj: float   # FanDuel projection
+  yahoo_proj: float  # Yahoo projection
+  dk_std: float    # DraftKings standard deviation
+  fd_std: float    # FanDuel standard deviation
+  yahoo_std: float  # Yahoo standard deviation
+
+# Fantasy Percentiles
+fantasy_percentiles:
+  dk_25: float
+  dk_50: float
+  dk_75: float
+  fd_25: float
+  fd_50: float
+  fd_75: float
+  yahoo_25: float
+  yahoo_50: float
+  yahoo_75: float
+
+# Aggregated Props
+props:
+  pra: float  # Points + Rebounds + Assists
+  pr: float   # Points + Rebounds
+  pa: float   # Points + Assists
+  ra: float   # Rebounds + Assists
+  stocks: float  # Steals + Blocks
+
+# Prop Percentiles
+prop_percentiles:
+  pra_25: float
+  pra_75: float
+  pr_25: float
+  pr_75: float
+  pa_25: float
+  pa_75: float
+  ra_25: float
+  ra_75: float
+  stocks_25: float
+  stocks_75: float
+
+# Metadata
+metadata:
+  fetch_ts: datetime  # Fetch timestamp
+  process_ts: datetime  # Process timestamp
+  version: str  # Data version
+  source: str  # Data source 

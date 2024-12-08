@@ -1,0 +1,22 @@
+{
+  "fd": {
+    "hash": "2bce1a2079bca1a93a2a620d4e57fb76",
+    "last_updated": "21:14",
+    "props": 589
+  },
+  "dk": {
+    "hash": "55b44b25d755a1b763523197138cffff",
+    "last_updated": "21:14",
+    "props": 675
+  },
+  "mgm": {
+    "hash": "8050209bb223f23caa16522d8c4e76b8",
+    "last_updated": "21:14",
+    "props": 1081
+  },
+  "espn": {
+    "hash": "976a9ec3bc6963a57a8d8151ce2e7335",
+    "last_updated": "21:15",
+    "props": 1034
+  }
+}

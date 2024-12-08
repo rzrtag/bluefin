@@ -1,0 +1,5 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400125,2024-10-30,OKC vs. SAS,W,1.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-3
+22400100,2024-10-27,OKC vs. ATL,W,2.0,0,2,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,3
+22400091,2024-10-26,OKC @ CHI,W,3.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+22400075,2024-10-24,OKC @ DEN,W,1.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0

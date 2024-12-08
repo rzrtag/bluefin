@@ -1,0 +1,7 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22300837,2024-02-27,NOP @ NYK,W,3.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,1
+22300022,2023-11-14,NOP vs. DAL,W,2.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,0,0
+22300183,2023-11-12,NOP vs. DAL,L,8.0,1,1,1.0,0,0,0.0,1,2,0.5,0,3,3,2,0,1,0,2,3,16
+22300011,2023-11-10,NOP @ HOU,L,12.0,0,3,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,0,0,-9
+22300166,2023-11-08,NOP @ MIN,L,17.0,3,7,0.429,1,2,0.5,2,2,1.0,1,2,3,1,0,0,0,1,9,5
+22300129,2023-11-02,NOP vs. DET,W,13.0,0,2,0.0,0,0,0.0,2,2,1.0,0,0,0,1,0,0,0,1,2,15

@@ -1,0 +1,4 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400254,2024-11-20,IND @ HOU,L,4.0,1,2,0.5,0,0,0.0,0,0,0.0,0,2,2,1,0,0,2,0,2,4
+22400184,2024-11-08,IND @ CHA,L,2.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+22400081,2024-10-25,IND @ NYK,L,4.0,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,1,0,1,1,0,2,4

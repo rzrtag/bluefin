@@ -1,0 +1,4 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400257,2024-11-20,PHX vs. NYK,L,4.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,2,1,0,1,0,0,3
+22400018,2024-11-15,PHX @ OKC,L,7.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,1,0,0,0,0,10
+22400227,2024-11-13,PHX @ SAC,L,16.0,3,6,0.5,2,3,0.667,0,0,0.0,0,1,1,1,0,0,0,0,8,-14

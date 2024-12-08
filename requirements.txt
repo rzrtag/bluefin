@@ -1,0 +1,28 @@
+# Core data processing
+pandas>=2.1.4,<2.2.0
+numpy>=1.26.3,<2.0.0  # Required by pandas for Python 3.12
+
+# Testing
+pytest>=7.4.4
+pytest-cov>=4.1.0
+
+# Environment and configuration
+python-dotenv>=1.0.1
+
+# HTTP requests
+requests>=2.31.0
+urllib3>=2.2.0
+
+# Type checking
+typing-extensions>=4.9.0
+
+# Data formats
+packaging>=24.0
+
+# NBA data
+nba_api>=1.4.1
+
+# Optional dependencies that might be needed later
+# matplotlib>=3.8.2  # For plotting if needed
+# pillow>=10.2.0     # Required by matplotlib
+# pyparsing>=3.1.1  # Required by matplotlib PyJWT

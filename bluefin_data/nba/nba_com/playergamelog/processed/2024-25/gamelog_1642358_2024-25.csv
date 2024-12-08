@@ -1,0 +1,6 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400052,2024-12-03,MIL @ DET,W,2.0,2,3,0.667,1,1,1.0,0,0,0.0,0,1,1,0,0,0,1,0,5,5
+22400005,2024-11-12,MIL vs. TOR,W,2.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,0,0,-1
+22400098,2024-10-27,MIL @ BKN,L,3.0,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,4
+22400083,2024-10-25,MIL vs. CHI,L,2.0,0,1,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,2
+22400066,2024-10-23,MIL @ PHI,W,1.0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0

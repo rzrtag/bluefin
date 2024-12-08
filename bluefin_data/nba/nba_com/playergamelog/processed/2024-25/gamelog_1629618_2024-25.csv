@@ -1,0 +1,4 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400341,2024-12-07,DEN @ WAS,L,16.0,0,1,0.0,0,1,0.0,0,0,0.0,1,2,3,2,0,0,0,2,0,0
+22400148,2024-11-02,DEN vs. UTA,W,2.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,1
+22400075,2024-10-24,DEN vs. OKC,L,2.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0

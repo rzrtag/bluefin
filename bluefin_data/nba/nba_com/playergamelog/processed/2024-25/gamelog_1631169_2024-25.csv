@@ -1,0 +1,11 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400338,2024-12-06,MIN @ GSW,W,5.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,1,0,1,0,0,-6
+22400324,2024-12-04,MIN @ LAC,W,21.0,5,7,0.714,1,3,0.333,2,3,0.667,1,7,8,3,1,1,1,2,13,-1
+22400318,2024-12-02,MIN vs. LAL,W,8.0,1,2,0.5,0,1,0.0,0,0,0.0,0,2,2,1,1,0,0,1,2,11
+22400271,2024-11-24,MIN @ BOS,L,1.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-8
+22400226,2024-11-13,MIN @ POR,L,4.0,1,2,0.5,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,2,2,-1
+22400008,2024-11-12,MIN @ POR,L,2.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,1,0,2
+22400193,2024-11-08,MIN vs. POR,W,13.0,1,2,0.5,0,1,0.0,0,0,0.0,0,0,0,0,0,1,0,1,2,-2
+22400181,2024-11-07,MIN @ CHI,W,5.0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,1,0,-1
+22400162,2024-11-04,MIN vs. CHA,W,8.0,0,0,0.0,0,0,0.0,1,2,0.5,0,1,1,0,0,1,1,1,1,-7
+22400146,2024-11-02,MIN @ SAS,L,10.0,2,4,0.5,0,2,0.0,0,0,0.0,0,2,2,0,0,0,1,2,4,7

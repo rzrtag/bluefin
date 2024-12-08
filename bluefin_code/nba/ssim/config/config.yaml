@@ -1,0 +1,85 @@
+# SaberSim API Configuration
+
+# API Settings
+api_url: "https://basketball-sim.appspot.com/endpoints/get_player_projections"
+token_file: "bluefin_code/nba/ssim/config/ssim_token.yaml"  # Token file path relative to project root
+rate_limit: 30  # Requests per minute
+
+# Request Settings
+timeout: 30  # Request timeout in seconds
+max_retries: 3  # Maximum number of retry attempts
+retry_delay: 4  # Initial retry delay in seconds
+retry_max_delay: 10  # Maximum retry delay in seconds
+
+# User Agents for Request Rotation
+user_agents:
+  - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
+  - "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0"
+  - "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  - "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1"
+
+# Data Validation Settings
+required_fields:
+  - name
+  - team
+  - opponent
+  - status
+  - points
+  - minutes
+  - rebounds
+  - assists
+  - steals
+  - blocks
+  - turnovers
+  - three_pt_fg
+  - timestamp
+  - version
+
+required_player_fields:
+  - name
+  - team
+  - status
+  - points
+  - minutes
+
+# Output Settings
+output_format: "NBA_{date}_raw.json"  # Date will be replaced with actual date
+data_root: "bluefin_data/nba/ssim"  # Relative to project root
+
+# Logging Settings
+log_format: "%(message)s"
+default_log_level: "INFO"
+
+# Team Codes
+team_codes:
+  "Atlanta Hawks": "ATL"
+  "Boston Celtics": "BOS"
+  "Brooklyn Nets": "BKN"
+  "Charlotte Hornets": "CHA"
+  "Chicago Bulls": "CHI"
+  "Cleveland Cavaliers": "CLE"
+  "Dallas Mavericks": "DAL"
+  "Denver Nuggets": "DEN"
+  "Detroit Pistons": "DET"
+  "Golden State Warriors": "GSW"
+  "Houston Rockets": "HOU"
+  "Indiana Pacers": "IND"
+  "Los Angeles Clippers": "LAC"
+  "Los Angeles Lakers": "LAL"
+  "Memphis Grizzlies": "MEM"
+  "Miami Heat": "MIA"
+  "Milwaukee Bucks": "MIL"
+  "Minnesota Timberwolves": "MIN"
+  "New Orleans Pelicans": "NOP"
+  "New York Knicks": "NYK"
+  "Oklahoma City Thunder": "OKC"
+  "Orlando Magic": "ORL"
+  "Philadelphia 76ers": "PHI"
+  "Phoenix Suns": "PHX"
+  "Portland Trail Blazers": "POR"
+  "Sacramento Kings": "SAC"
+  "San Antonio Spurs": "SAS"
+  "Toronto Raptors": "TOR"
+  "Utah Jazz": "UTA"
+  "Washington Wizards": "WAS"

@@ -1,0 +1,6 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400123,2024-10-30,ORL @ CHI,L,37.0,12,22,0.545,2,9,0.222,5,7,0.714,0,7,7,4,0,0,4,2,31,-4
+22400102,2024-10-28,ORL vs. IND,W,40.0,16,26,0.615,3,9,0.333,15,22,0.682,4,9,13,9,1,2,4,4,50,3
+22400092,2024-10-26,ORL @ MEM,L,37.0,4,12,0.333,1,4,0.25,7,13,0.538,3,4,7,3,1,0,3,3,16,-15
+22400077,2024-10-25,ORL vs. BKN,W,37.0,4,13,0.308,1,2,0.5,6,11,0.545,1,5,6,9,0,1,0,2,15,3
+22400065,2024-10-23,ORL @ MIA,W,31.0,12,24,0.5,4,8,0.5,5,6,0.833,4,7,11,3,1,1,0,2,33,42

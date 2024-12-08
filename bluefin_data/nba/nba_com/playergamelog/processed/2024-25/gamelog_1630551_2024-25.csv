@@ -1,0 +1,5 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400341,2024-12-07,WAS vs. DEN,W,37.0,9,13,0.692,2,4,0.5,3,5,0.6,5,3,8,1,2,2,2,3,23,3
+22400326,2024-12-05,WAS vs. DAL,L,29.0,4,9,0.444,1,4,0.25,0,0,0.0,2,3,5,3,0,0,1,2,9,-21
+22400224,2024-11-13,WAS @ SAS,L,1.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,5
+22400073,2024-10-24,WAS vs. BOS,L,4.0,0,0,0.0,0,0,0.0,0,0,0.0,1,1,2,1,0,0,0,3,0,7

@@ -1,0 +1,7 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22301198,2024-04-14,GSW vs. UTA,W,5.0,0,1,0.0,0,0,0.0,1,2,0.5,0,4,4,0,0,2,0,0,1,7
+22301155,2024-04-09,GSW @ LAL,W,2.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,1,0,0,-2
+22301142,2024-04-07,GSW vs. UTA,W,3.0,1,4,0.25,0,1,0.0,0,0,0.0,2,0,2,0,0,0,1,0,2,-11
+22300824,2024-02-25,GSW vs. DEN,L,2.0,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,0,0,0,0,1,0,-2
+22300399,2023-12-23,GSW vs. POR,W,4.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,1,0,1
+22300386,2023-12-22,GSW vs. WAS,W,2.0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,-4

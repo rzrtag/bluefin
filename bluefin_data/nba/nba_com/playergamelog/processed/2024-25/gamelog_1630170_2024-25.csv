@@ -1,0 +1,9 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400331,2024-12-05,SAS vs. CHI,L,25.0,6,15,0.4,1,5,0.2,4,6,0.667,0,3,3,2,4,0,1,2,17,7
+22400057,2024-12-03,SAS @ PHX,L,28.0,10,14,0.714,4,5,0.8,1,1,1.0,0,2,2,1,2,0,1,3,25,-2
+22400313,2024-12-01,SAS @ SAC,W,24.0,8,12,0.667,5,8,0.625,0,0,0.0,0,0,0,3,0,1,2,1,21,-9
+22400296,2024-11-27,SAS vs. LAL,L,21.0,5,10,0.5,2,3,0.667,2,2,1.0,1,2,3,1,2,0,3,3,14,-22
+22400015,2024-11-15,SAS vs. LAL,L,22.0,6,13,0.462,3,8,0.375,0,0,0.0,0,0,0,5,1,1,0,4,15,-13
+22400224,2024-11-13,SAS vs. WAS,W,25.0,5,14,0.357,1,8,0.125,6,6,1.0,0,2,2,3,1,1,3,0,17,-18
+22400216,2024-11-11,SAS vs. SAC,W,21.0,3,9,0.333,3,5,0.6,3,3,1.0,1,1,2,4,0,0,1,0,12,-3
+22400197,2024-11-09,SAS vs. UTA,L,22.0,8,13,0.615,3,6,0.5,2,2,1.0,0,1,1,2,0,0,3,5,21,-13

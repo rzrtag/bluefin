@@ -1,0 +1,7 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400018,2024-11-15,OKC vs. PHX,W,4.0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-3
+22400221,2024-11-13,OKC vs. NOP,W,3.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-4
+22400192,2024-11-08,OKC vs. HOU,W,4.0,0,0,0.0,0,0,0.0,1,2,0.5,0,0,0,0,0,0,0,1,1,-7
+22400163,2024-11-04,OKC vs. ORL,W,3.0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,0,0,-1
+22400150,2024-11-02,OKC @ LAC,W,3.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-4
+22400140,2024-11-01,OKC @ POR,W,3.0,0,1,0.0,0,0,0.0,1,2,0.5,1,0,1,1,0,0,0,2,1,1

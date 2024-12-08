@@ -1,0 +1,9 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22300982,2024-03-17,LAC vs. ATL,L,2.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+22300944,2024-03-12,LAC vs. MIN,L,4.0,1,3,0.333,0,1,0.0,0,0,0.0,1,0,1,0,0,0,0,0,2,2
+22300917,2024-03-09,LAC vs. CHI,W,1.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+22300770,2024-02-12,LAC vs. MIN,L,5.0,1,1,1.0,0,0,0.0,2,2,1.0,0,1,1,0,0,0,0,0,4,3
+22300537,2024-01-12,LAC @ MEM,W,4.0,1,2,0.5,0,0,0.0,0,0,0.0,2,0,2,0,0,0,0,0,2,-11
+22300343,2023-12-16,LAC vs. NYK,W,5.0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,1,0,0,-2
+22300114,2023-10-31,LAC vs. ORL,W,3.0,1,1,1.0,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,1,3,2
+22300074,2023-10-25,LAC vs. POR,W,4.0,1,2,0.5,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,-7

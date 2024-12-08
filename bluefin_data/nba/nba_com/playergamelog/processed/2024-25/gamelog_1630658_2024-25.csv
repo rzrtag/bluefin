@@ -1,0 +1,7 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400238,2024-11-17,MEM vs. DEN,W,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+22400210,2024-11-10,MEM @ POR,W,7.0,0,1,0.0,0,1,0.0,4,4,1.0,0,4,4,0,0,0,0,0,4,6
+22400191,2024-11-08,MEM vs. WAS,W,2.0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,2
+22400174,2024-11-06,MEM vs. LAL,W,2.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,-1
+22400142,2024-11-02,MEM @ PHI,W,1.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+22400128,2024-10-31,MEM vs. MIL,W,2.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,1,0,0,0,-1

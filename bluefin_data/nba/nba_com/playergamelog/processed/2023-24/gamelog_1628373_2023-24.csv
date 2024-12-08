@@ -1,0 +1,6 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22300674,2024-01-31,CHA vs. CHI,L,10.0,0,4,0.0,0,4,0.0,0,0,0.0,0,3,3,3,0,0,0,0,0,9
+22300657,2024-01-29,CHA vs. NYK,L,11.0,0,1,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,3,0,-11
+22300635,2024-01-26,CHA vs. HOU,L,9.0,1,2,0.5,1,2,0.5,2,2,1.0,0,0,0,0,0,0,0,0,5,-6
+22300619,2024-01-24,CHA @ DET,L,9.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,8
+22300575,2024-01-17,CHA @ NOP,L,4.0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,1,0,0,1,0,0,-1

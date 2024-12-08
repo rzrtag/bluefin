@@ -1,0 +1,9 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400051,2024-12-03,CLE vs. WAS,W,6.0,3,4,0.75,0,1,0.0,0,0,0.0,1,2,3,1,0,0,1,0,6,4
+22400252,2024-11-20,CLE vs. NOP,W,21.0,4,7,0.571,0,0,0.0,0,0,0.0,2,7,9,2,0,2,0,4,8,-1
+22400013,2024-11-15,CLE vs. CHI,W,5.0,1,1,1.0,0,0,0.0,0,1,0.0,0,0,0,0,0,0,1,1,2,-2
+22400188,2024-11-08,CLE vs. GSW,W,3.0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-9
+22400133,2024-11-01,CLE vs. ORL,W,4.0,2,2,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,4,-5
+22400118,2024-10-30,CLE vs. LAL,W,5.0,2,2,1.0,0,0,0.0,0,1,0.0,0,3,3,1,0,0,1,0,4,2
+22400090,2024-10-26,CLE @ WAS,W,5.0,0,0,0.0,0,0,0.0,0,4,0.0,0,1,1,0,0,0,1,1,0,-3
+22400067,2024-10-23,CLE @ TOR,W,9.0,1,2,0.5,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,2,-1

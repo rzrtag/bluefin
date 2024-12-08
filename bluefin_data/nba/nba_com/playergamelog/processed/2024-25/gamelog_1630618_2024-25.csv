@@ -1,0 +1,5 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400137,2024-11-01,TOR vs. LAL,L,5.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+22400107,2024-10-28,TOR vs. DEN,L,3.0,0,2,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-3
+22400093,2024-10-26,TOR @ MIN,L,9.0,1,2,0.5,0,0,0.0,1,1,1.0,0,2,2,0,0,0,3,0,3,-1
+22400078,2024-10-25,TOR vs. PHI,W,16.0,0,3,0.0,0,2,0.0,0,0,0.0,0,2,2,3,2,0,1,1,0,17

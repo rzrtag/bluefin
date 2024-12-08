@@ -1,0 +1,10 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22300229,2023-11-22,MIA @ CLE,W,1.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-5
+22300220,2023-11-20,MIA @ CHI,W,2.0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,1,0,0,0,0,-6
+22300017,2023-11-14,MIA @ CHA,W,3.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,2,0,1
+22300184,2023-11-12,MIA @ SAS,W,27.0,4,9,0.444,2,5,0.4,2,2,1.0,2,2,4,3,0,0,1,2,12,5
+22300175,2023-11-11,MIA @ ATL,W,28.0,4,8,0.5,1,3,0.333,0,0,0.0,1,1,2,2,3,1,2,3,9,-1
+22300164,2023-11-08,MIA @ MEM,W,15.0,1,3,0.333,0,2,0.0,0,0,0.0,2,2,4,1,1,1,0,0,2,-3
+22300093,2023-10-28,MIA @ MIN,L,22.0,2,4,0.5,1,1,1.0,0,0,0.0,0,1,1,4,1,0,1,1,5,-12
+22300080,2023-10-27,MIA @ BOS,L,23.0,3,6,0.5,3,4,0.75,0,0,0.0,1,1,2,3,3,1,1,2,9,-18
+22300068,2023-10-25,MIA vs. DET,W,9.0,1,2,0.5,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,1,2,-4

@@ -1,0 +1,7 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400342,2024-12-07,NOP vs. OKC,L,37.0,8,10,0.8,2,4,0.5,6,7,0.857,1,3,4,4,0,1,5,5,24,-5
+22400330,2024-12-05,NOP vs. PHX,W,32.0,4,11,0.364,2,5,0.4,2,4,0.5,0,7,7,5,4,1,1,3,12,13
+22400116,2024-10-29,NOP @ GSW,L,20.0,2,3,0.667,1,2,0.5,0,0,0.0,0,3,3,0,1,0,1,0,5,7
+22400099,2024-10-27,NOP @ POR,L,31.0,5,7,0.714,1,3,0.333,1,2,0.5,2,0,2,1,2,0,2,5,12,-24
+22400086,2024-10-25,NOP @ POR,W,29.0,4,9,0.444,0,3,0.0,0,0,0.0,1,0,1,1,2,1,2,1,8,-4
+22400069,2024-10-23,NOP vs. CHI,W,33.0,1,6,0.167,0,3,0.0,0,0,0.0,1,3,4,2,2,0,0,3,2,5

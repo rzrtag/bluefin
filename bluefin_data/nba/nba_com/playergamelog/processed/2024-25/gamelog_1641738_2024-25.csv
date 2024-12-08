@@ -1,0 +1,8 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400281,2024-11-25,LAC @ BOS,L,5.0,1,2,0.5,1,1,1.0,0,0,0.0,0,0,0,0,0,0,0,0,3,-7
+22400274,2024-11-24,LAC @ PHI,W,13.0,3,4,0.75,0,1,0.0,0,0,0.0,0,4,4,2,0,0,0,3,6,-2
+22400259,2024-11-20,LAC vs. ORL,W,3.0,0,1,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,0,1,0,-3
+22400016,2024-11-15,LAC @ HOU,L,10.0,2,7,0.286,0,2,0.0,1,2,0.5,2,2,4,0,1,0,0,1,5,-1
+22400222,2024-11-13,LAC @ HOU,L,8.0,2,5,0.4,0,2,0.0,0,0,0.0,2,3,5,1,0,0,0,0,4,8
+22400179,2024-11-06,LAC vs. PHI,W,3.0,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,2,-7
+22400150,2024-11-02,LAC vs. OKC,L,4.0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,0,3

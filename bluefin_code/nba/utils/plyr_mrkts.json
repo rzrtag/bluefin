@@ -1,0 +1,70 @@
+{
+    "markets": {
+        "points": {
+            "name": "Points",
+            "abbreviation": "pts",
+            "market_id": "151",
+            "display_name": "PTS"
+        },
+        "rebounds": {
+            "name": "Rebounds",
+            "abbreviation": "reb",
+            "market_id": "152",
+            "display_name": "REB"
+        },
+        "assists": {
+            "name": "Assists",
+            "abbreviation": "ast",
+            "market_id": "156",
+            "display_name": "AST"
+        },
+        "points_rebounds_assists": {
+            "name": "Points + Rebounds + Assists",
+            "abbreviation": "pra",
+            "market_id": "157",
+            "display_name": "PRA"
+        },
+        "points_rebounds": {
+            "name": "Points + Rebounds",
+            "abbreviation": "pr",
+            "market_id": "160",
+            "display_name": "P+R"
+        },
+        "points_assists": {
+            "name": "Points + Assists",
+            "abbreviation": "pa",
+            "market_id": "162",
+            "display_name": "P+A"
+        },
+        "steals": {
+            "name": "Steals",
+            "abbreviation": "stl",
+            "market_id": "335",
+            "display_name": "STL"
+        },
+        "blocks": {
+            "name": "Blocks",
+            "abbreviation": "blk",
+            "market_id": "336",
+            "display_name": "BLK"
+        },
+        "threes": {
+            "name": "Three Pointers Made",
+            "abbreviation": "3pm",
+            "market_id": "337",
+            "display_name": "3PM"
+        },
+        "turnovers": {
+            "name": "Turnovers",
+            "abbreviation": "to",
+            "market_id": "338",
+            "display_name": "TO"
+        },
+        "steals_blocks": {
+            "name": "Steals + Blocks",
+            "abbreviation": "stocks",
+            "market_id": "346",
+            "display_name": "STL+BLK"
+        }
+    }
+} 

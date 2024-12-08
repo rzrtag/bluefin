@@ -1,0 +1,823 @@
+{
+  "_parameters": {
+    "sport": "NBA",
+    "season": null,
+    "doubleheader": null,
+    "week": null,
+    "date": "2024-11-14",
+    "start": null,
+    "season_type": null,
+    "direction": "asc",
+    "status": null,
+    "end": null,
+    "comp_id": null,
+    "event_id": null,
+    "event_slug": null,
+    "team_id": null,
+    "lineups": "true",
+    "park_factors": "true",
+    "officials": "false"
+  },
+  "events": [
+    {
+      "id": 25224,
+      "sr_id": "992bbefd-dd1a-46e2-996a-ae9ded33baee",
+      "sport": "NBA",
+      "scheduled": "2024-11-15 02:00:00",
+      "season": 2024,
+      "season_type": "REG",
+      "event_name": null,
+      "status": "closed",
+      "home": "UTH",
+      "visitor": "DAL",
+      "link": "/nba/matchups/dallas-mavericks-vs-utah-jazz/?date=2024-11-14",
+      "series_summary": null,
+      "popularity": 6015,
+      "lineups": {
+        "home_lineup": [
+          {
+            "status": "started",
+            "participant": {
+              "id": "3330",
+              "name": "John Collins",
+              "link": "/nba/props/john-collins/",
+              "player": {
+                "short_name": "J. Collins",
+                "first_name": "John",
+                "last_name": "Collins",
+                "image": "https://images.fantasypros.com/images/players/nba/3330/headshot/210x210.webp",
+                "position": "F",
+                "team": "UTH",
+                "slug": "john-collins",
+                "jersey_number": 20
+              }
+            }
+          },
+          {
+            "status": "started",
+            "participant": {
+              "id": "3478",
+              "name": "Collin Sexton",
+              "link": "/nba/props/collin-sexton/",
+              "player": {
+                "short_name": "C. Sexton",
+                "first_name": "Collin",
+                "last_name": "Sexton",
+                "image": "https://images.fantasypros.com/images/players/nba/3478/headshot/210x210.webp",
+                "position": "G",
+                "team": "UTH",
+                "slug": "collin-sexton",
+                "jersey_number": 2
+              }
+            }
+          },
+          {
+            "status": "started",
+            "participant": {
+              "id": "5986",
+              "name": "Keyonte George",
+              "link": "/nba/props/keyonte-george/",
+              "player": {
+                "short_name": "K. George",
+                "first_name": "Keyonte",
+                "last_name": "George",
+                "image": "https://images.fantasypros.com/images/players/nba/5986/headshot/210x210.webp",
+                "position": "G",
+                "team": "UTH",
+                "slug": "keyonte-george",
+                "jersey_number": 3
+              }
+            }
+          },
+          {
+            "status": "started",
+            "participant": {
+              "id": "6185",
+              "name": "Kyle Filipowski",
+              "link": "/nba/props/kyle-filipowski/",
+              "player": {
+                "short_name": "K. Filipowski",
+                "first_name": "Kyle",
+                "last_name": "Filipowski",
+                "image": "https://images.fantasypros.com/images/players/nba/6185/headshot/210x210.webp",
+                "position": "F",
+                "team": "UTH",
+                "slug": "kyle-filipowski",
+                "jersey_number": 22
+              }
+            }
+          },
+          {
+            "status": "started",
+            "participant": {
+              "id": "3322",
+              "name": "Lauri Markkanen",
+              "link": "/nba/props/lauri-markkanen/",
+              "player": {
+                "short_name": "L. Markkanen",
+                "first_name": "Lauri",
+                "last_name": "Markkanen",
+                "image": "https://images.fantasypros.com/images/players/nba/3322/headshot/210x210.webp",
+                "position": "F",
+                "team": "UTH",
+                "slug": "lauri-markkanen",
+                "jersey_number": 23
+              }
+            }
+          },
+          {
+            "status": "bench",
+            "participant": {
+              "id": "2837",
+              "name": "Jordan Clarkson",
+              "link": "/nba/props/jordan-clarkson/",
+              "player": {
+                "short_name": "J. Clarkson",
+                "first_name": "Jordan",
+                "last_name": "Clarkson",
+                "image": "https://images.fantasypros.com/images/players/nba/2837/headshot/210x210.webp",
+                "position": "G",
+                "team": "UTH",
+                "slug": "jordan-clarkson",
+                "jersey_number": 0
+              }
+            }
+          },
+          {
+            "status": "bench",
+            "participant": {
+              "id": "6145",
+              "name": "Isaiah Collier",
+              "link": "/nba/props/isaiah-collier/",
+              "player": {
+                "short_name": "I. Collier",
+                "first_name": "Isaiah",
+                "last_name": "Collier",
+                "image": "https://images.fantasypros.com/images/players/nba/6145/headshot/210x210.webp",
+                "position": "G",
+                "team": "UTH",
+                "slug": "isaiah-collier",
+                "jersey_number": 13
+              }
+            }
+          },
+          {
+            "status": "bench",
+            "participant": {
+              "id": "3600",
+              "name": "Drew Eubanks",
+              "link": "/nba/props/drew-eubanks/",
+              "player": {
+                "short_name": "D. Eubanks",
+                "first_name": "Drew",
+                "last_name": "Eubanks",
+                "image": "https://images.fantasypros.com/images/players/nba/3600/headshot/210x210.webp",
+                "position": "C",
+                "team": "UTH",
+                "slug": "drew-eubanks",
+                "jersey_number": 15
+              }
+            }
+          },
+          {
+            "status": "bench",
+            "participant": {
+              "id": "6163",
+              "name": "Cody Williams",
+              "link": "/nba/props/cody-williams/",
+              "player": {
+                "short_name": "C. Williams",
+                "first_name": "Cody",
+                "last_name": "Williams",
+                "image": "https://images.fantasypros.com/images/players/nba/6163/headshot/210x210.webp",
+                "position": "F",
+                "team": "UTH",
+                "slug": "cody-williams",
+                "jersey_number": 5
+              }
+            }
+          },
+          {
+            "status": "bench",
+            "participant": {
+              "id": "5348",
+              "name": "Johnny Juzang",
+              "link": "/nba/props/johnny-juzang/",
+              "player": {
+                "short_name": "J. Juzang",
+                "first_name": "Johnny",
+                "last_name": "Juzang",
+                "image": "https://images.fantasypros.com/images/players/nba/5348/headshot/210x210.webp",
+                "position": "G",
+                "team": "UTH",
+                "slug": "johnny-juzang",
+                "jersey_number": 33
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "2894",
+              "name": "Patty Mills",
+              "link": "/nba/props/patty-mills/",
+              "player": {
+                "short_name": "P. Mills",
+                "first_name": "Patty",
+                "last_name": "Mills",
+                "image": "https://images.fantasypros.com/images/players/nba/2894/headshot/210x210.webp",
+                "position": "G",
+                "team": "UTH",
+                "slug": "patty-mills",
+                "jersey_number": 8
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "3541",
+              "name": "Svi Mykhailiuk",
+              "link": "/nba/props/sviatoslav-mykhailiuk/",
+              "player": {
+                "short_name": "S. Mykhailiuk",
+                "first_name": "Svi",
+                "last_name": "Mykhailiuk",
+                "image": "https://images.fantasypros.com/images/players/nba/3541/headshot/210x210.webp",
+                "position": "G",
+                "team": "UTH",
+                "slug": "sviatoslav-mykhailiuk",
+                "jersey_number": 19
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "5200",
+              "name": "Oscar Tshiebwe",
+              "link": "/nba/props/oscar-tshiebwe/",
+              "player": {
+                "short_name": "O. Tshiebwe",
+                "first_name": "Oscar",
+                "last_name": "Tshiebwe",
+                "image": "https://images.fantasypros.com/images/players/nba/5200/headshot/210x210.webp",
+                "position": "F",
+                "team": "UTH",
+                "slug": "oscar-tshiebwe",
+                "jersey_number": 34
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "5380",
+              "name": "Jason Preston",
+              "link": "/nba/props/jason-preston/",
+              "player": {
+                "short_name": "J. Preston",
+                "first_name": "Jason",
+                "last_name": "Preston",
+                "image": "https://images.fantasypros.com/images/players/nba/5380/headshot/210x210.webp",
+                "position": "G",
+                "team": "FA",
+                "slug": "jason-preston",
+                "jersey_number": null
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "5408",
+              "name": "Micah Potter",
+              "link": "/nba/props/micah-potter/",
+              "player": {
+                "short_name": "M. Potter",
+                "first_name": "Micah",
+                "last_name": "Potter",
+                "image": "https://images.fantasypros.com/images/players/nba/5408/headshot/210x210.webp",
+                "position": "F",
+                "team": "UTH",
+                "slug": "micah-potter",
+                "jersey_number": 25
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "5537",
+              "name": "Walker Kessler",
+              "link": "/nba/props/walker-kessler/",
+              "player": {
+                "short_name": "W. Kessler",
+                "first_name": "Walker",
+                "last_name": "Kessler",
+                "image": "https://images.fantasypros.com/images/players/nba/5537/headshot/210x210.webp",
+                "position": "C",
+                "team": "UTH",
+                "slug": "walker-kessler",
+                "jersey_number": 24
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "5974",
+              "name": "Brice Sensabaugh",
+              "link": "/nba/props/brice-sensabaugh/",
+              "player": {
+                "short_name": "B. Sensabaugh",
+                "first_name": "Brice",
+                "last_name": "Sensabaugh",
+                "image": "https://images.fantasypros.com/images/players/nba/5974/headshot/210x210.webp",
+                "position": "F",
+                "team": "UTH",
+                "slug": "brice-sensabaugh",
+                "jersey_number": 28
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "5977",
+              "name": "Taylor Hendricks",
+              "link": "/nba/props/taylor-hendricks/",
+              "player": {
+                "short_name": "T. Hendricks",
+                "first_name": "Taylor",
+                "last_name": "Hendricks",
+                "image": "https://images.fantasypros.com/images/players/nba/5977/headshot/210x210.webp",
+                "position": "F",
+                "team": "UTH",
+                "slug": "taylor-hendricks",
+                "jersey_number": 0
+              }
+            }
+          }
+        ],
+        "away_lineup": [
+          {
+            "status": "started",
+            "participant": {
+              "id": "3469",
+              "name": "Luka Doncic",
+              "link": "/nba/props/luka-doncic/",
+              "player": {
+                "short_name": "L. Doncic",
+                "first_name": "Luka",
+                "last_name": "Doncic",
+                "image": "https://images.fantasypros.com/images/players/nba/3469/headshot/210x210.webp",
+                "position": "G",
+                "team": "DAL",
+                "slug": "luka-doncic",
+                "jersey_number": 77
+              }
+            }
+          },
+          {
+            "status": "started",
+            "participant": {
+              "id": "5336",
+              "name": "Quentin Grimes",
+              "link": "/nba/props/quentin-grimes/",
+              "player": {
+                "short_name": "Q. Grimes",
+                "first_name": "Quentin",
+                "last_name": "Grimes",
+                "image": "https://images.fantasypros.com/images/players/nba/5336/headshot/210x210.webp",
+                "position": "G",
+                "team": "DAL",
+                "slug": "quentin-grimes",
+                "jersey_number": 5
+              }
+            }
+          },
+          {
+            "status": "started",
+            "participant": {
+              "id": "2142",
+              "name": "Klay Thompson",
+              "link": "/nba/props/klay-thompson/",
+              "player": {
+                "short_name": "K. Thompson",
+                "first_name": "Klay",
+                "last_name": "Thompson",
+                "image": "https://images.fantasypros.com/images/players/nba/2142/headshot/210x210.webp",
+                "position": "G",
+                "team": "DAL",
+                "slug": "klay-thompson",
+                "jersey_number": 31
+              }
+            }
+          },
+          {
+            "status": "started",
+            "participant": {
+              "id": "5976",
+              "name": "Dereck Lively II",
+              "link": "/nba/props/dereck-lively-ii/",
+              "player": {
+                "short_name": "D. Lively II",
+                "first_name": "Dereck",
+                "last_name": "Lively",
+                "image": "https://images.fantasypros.com/images/players/nba/5976/headshot/210x210.webp",
+                "position": "C",
+                "team": "DAL",
+                "slug": "dereck-lively-ii",
+                "jersey_number": 2
+              }
+            }
+          },
+          {
+            "status": "started",
+            "participant": {
+              "id": "3432",
+              "name": "Maxi Kleber",
+              "link": "/nba/props/maxi-kleber/",
+              "player": {
+                "short_name": "M. Kleber",
+                "first_name": "Maxi",
+                "last_name": "Kleber",
+                "image": "https://images.fantasypros.com/images/players/nba/3432/headshot/210x210.webp",
+                "position": "F",
+                "team": "DAL",
+                "slug": "maxi-kleber",
+                "jersey_number": 42
+              }
+            }
+          },
+          {
+            "status": "bench",
+            "participant": {
+              "id": "5187",
+              "name": "Naji Marshall",
+              "link": "/nba/props/naji-marshall/",
+              "player": {
+                "short_name": "N. Marshall",
+                "first_name": "Naji",
+                "last_name": "Marshall",
+                "image": "https://images.fantasypros.com/images/players/nba/5187/headshot/210x210.webp",
+                "position": "F",
+                "team": "DAL",
+                "slug": "naji-marshall",
+                "jersey_number": 13
+              }
+            }
+          },
+          {
+            "status": "bench",
+            "participant": {
+              "id": "5445",
+              "name": "Jaden Hardy",
+              "link": "/nba/props/jaden-hardy/",
+              "player": {
+                "short_name": "J. Hardy",
+                "first_name": "Jaden",
+                "last_name": "Hardy",
+                "image": "https://images.fantasypros.com/images/players/nba/5445/headshot/210x210.webp",
+                "position": "G",
+                "team": "DAL",
+                "slug": "jaden-hardy",
+                "jersey_number": 1
+              }
+            }
+          },
+          {
+            "status": "bench",
+            "participant": {
+              "id": "4527",
+              "name": "Daniel Gafford",
+              "link": "/nba/props/daniel-gafford/",
+              "player": {
+                "short_name": "D. Gafford",
+                "first_name": "Daniel",
+                "last_name": "Gafford",
+                "image": "https://images.fantasypros.com/images/players/nba/4527/headshot/210x210.webp",
+                "position": "F",
+                "team": "DAL",
+                "slug": "daniel-gafford",
+                "jersey_number": 21
+              }
+            }
+          },
+          {
+            "status": "bench",
+            "participant": {
+              "id": "2885",
+              "name": "Spencer Dinwiddie",
+              "link": "/nba/props/spencer-dinwiddie/",
+              "player": {
+                "short_name": "S. Dinwiddie",
+                "first_name": "Spencer",
+                "last_name": "Dinwiddie",
+                "image": "https://images.fantasypros.com/images/players/nba/2885/headshot/210x210.webp",
+                "position": "G",
+                "team": "DAL",
+                "slug": "spencer-dinwiddie",
+                "jersey_number": 26
+              }
+            }
+          },
+          {
+            "status": "bench",
+            "participant": {
+              "id": "2898",
+              "name": "Dwight Powell",
+              "link": "/nba/props/dwight-powell/",
+              "player": {
+                "short_name": "D. Powell",
+                "first_name": "Dwight",
+                "last_name": "Powell",
+                "image": "https://images.fantasypros.com/images/players/nba/2898/headshot/210x210.webp",
+                "position": "C",
+                "team": "DAL",
+                "slug": "dwight-powell",
+                "jersey_number": 7
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "2074",
+              "name": "Kyrie Irving",
+              "link": "/nba/props/kyrie-irving/",
+              "player": {
+                "short_name": "K. Irving",
+                "first_name": "Kyrie",
+                "last_name": "Irving",
+                "image": "https://images.fantasypros.com/images/players/nba/2074/headshot/210x210.webp",
+                "position": "G",
+                "team": "DAL",
+                "slug": "kyrie-irving",
+                "jersey_number": 11
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "2386",
+              "name": "Markieff Morris",
+              "link": "/nba/props/markieff-morris/",
+              "player": {
+                "short_name": "M. Morris",
+                "first_name": "Markieff",
+                "last_name": "Morris",
+                "image": "https://images.fantasypros.com/images/players/nba/2386/headshot/210x210.webp",
+                "position": "F",
+                "team": "DAL",
+                "slug": "markieff-morris",
+                "jersey_number": 88
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "2845",
+              "name": "Dante Exum",
+              "link": "/nba/props/dante-exum/",
+              "player": {
+                "short_name": "D. Exum",
+                "first_name": "Dante",
+                "last_name": "Exum",
+                "image": "https://images.fantasypros.com/images/players/nba/2845/headshot/210x210.webp",
+                "position": "G",
+                "team": "DAL",
+                "slug": "dante-exum",
+                "jersey_number": 0
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "4480",
+              "name": "P.J. Washington Jr.",
+              "link": "/nba/props/pj-washington/",
+              "player": {
+                "short_name": "P.J. Washington Jr.",
+                "first_name": "P.J.",
+                "last_name": "Washington",
+                "image": "https://images.fantasypros.com/images/players/nba/4480/headshot/210x210.webp",
+                "position": "F",
+                "team": "DAL",
+                "slug": "pj-washington",
+                "jersey_number": 25
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "5381",
+              "name": "Kessler Edwards",
+              "link": "/nba/props/kessler-edwards/",
+              "player": {
+                "short_name": "K. Edwards",
+                "first_name": "Kessler",
+                "last_name": "Edwards",
+                "image": "https://images.fantasypros.com/images/players/nba/5381/headshot/210x210.webp",
+                "position": "F",
+                "team": "DAL",
+                "slug": "kessler-edwards",
+                "jersey_number": 20
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "5427",
+              "name": "Brandon Williams",
+              "link": "/nba/props/brandon-williams/",
+              "player": {
+                "short_name": "B. Williams",
+                "first_name": "Brandon",
+                "last_name": "Williams",
+                "image": "https://images.fantasypros.com/images/players/nba/5427/headshot/210x210.webp",
+                "position": "G",
+                "team": "DAL",
+                "slug": "brandon-williams",
+                "jersey_number": 10
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "5999",
+              "name": "Olivier-Maxence Prosper",
+              "link": "/nba/props/olivier-maxence-prosper/",
+              "player": {
+                "short_name": "O. Prosper",
+                "first_name": "Olivier-Maxence",
+                "last_name": "Prosper",
+                "image": "https://images.fantasypros.com/images/players/nba/5999/headshot/210x210.webp",
+                "position": "F",
+                "team": "DAL",
+                "slug": "olivier-maxence-prosper",
+                "jersey_number": 8
+              }
+            }
+          },
+          {
+            "status": "did_not_play",
+            "participant": {
+              "id": "6052",
+              "name": "Jazian Gortman",
+              "link": "/nba/props/jazian-gortman/",
+              "player": {
+                "short_name": "J. Gortman",
+                "first_name": "Jazian",
+                "last_name": "Gortman",
+                "image": "https://images.fantasypros.com/images/players/nba/6052/headshot/210x210.webp",
+                "position": "G",
+                "team": "DAL",
+                "slug": "jazian-gortman",
+                "jersey_number": 0
+              }
+            }
+          }
+        ],
+        "home_lineup_type": "confirmed",
+        "away_lineup_type": "confirmed"
+      },
+      "venue": {
+        "name": "Delta Center",
+        "id": null,
+        "city": "Salt Lake City",
+        "state": "UT",
+        "country": "USA",
+        "zip": "84101"
+      },
+      "participants": [
+        {
+          "id": "UTH",
+          "name": "Jazz",
+          "link": "/nba/teams/utah-jazz/",
+          "team": {
+            "city": "Utah",
+            "abbreviation": "UTH",
+            "conference": "Western",
+            "division": "Northwest",
+            "record": {
+              "W": 4,
+              "L": 17,
+              "T": 0
+            },
+            "slug": "utah-jazz"
+          }
+        },
+        {
+          "id": "DAL",
+          "name": "Mavericks",
+          "link": "/nba/teams/dallas-mavericks/",
+          "team": {
+            "city": "Dallas",
+            "abbreviation": "DAL",
+            "conference": "Western",
+            "division": "Southwest",
+            "record": {
+              "W": 15,
+              "L": 8,
+              "T": 0
+            },
+            "slug": "dallas-mavericks"
+          }
+        }
+      ],
+      "broadcasts": [
+        {
+          "network": "NBA TV",
+          "type": "tv"
+        }
+      ],
+      "results": {
+        "outcomes": [
+          {
+            "label": "event",
+            "winner": "UTH",
+            "scores": [
+              {
+                "participant": "UTH",
+                "score": 115
+              },
+              {
+                "participant": "DAL",
+                "score": 113
+              }
+            ]
+          }
+        ],
+        "periods": [
+          {
+            "name": "quarter",
+            "number": 1,
+            "scores": [
+              {
+                "participant": "UTH",
+                "score": 27
+              },
+              {
+                "participant": "DAL",
+                "score": 28
+              }
+            ]
+          },
+          {
+            "name": "quarter",
+            "number": 2,
+            "scores": [
+              {
+                "participant": "UTH",
+                "score": 34
+              },
+              {
+                "participant": "DAL",
+                "score": 36
+              }
+            ]
+          },
+          {
+            "name": "quarter",
+            "number": 3,
+            "scores": [
+              {
+                "participant": "UTH",
+                "score": 38
+              },
+              {
+                "participant": "DAL",
+                "score": 21
+              }
+            ]
+          },
+          {
+            "name": "quarter",
+            "number": 4,
+            "scores": [
+              {
+                "participant": "UTH",
+                "score": 16
+              },
+              {
+                "participant": "DAL",
+                "score": 28
+              }
+            ]
+          }
+        ]
+      },
+      "is_free": true
+    }
+  ],
+  "ts": 1733512635,
+  "utc": "2024-12-06 19:17:15"
+}

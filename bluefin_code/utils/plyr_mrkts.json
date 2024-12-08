@@ -1,0 +1,84 @@
+{
+    "markets": {
+      "151": {
+        "slug": "assists",
+        "label": "Assists Over/Under",
+        "short_label": "Assists",
+        "prop_full_label": "Assists",
+        "prop_short_label": "Ast",
+        "prop_suffix": "assists"
+      },
+      "152": {
+        "slug": "blocks",
+        "label": "Blocks Over/Under",
+        "short_label": "Blocks",
+        "prop_full_label": "Blocks",
+        "prop_short_label": "Blk",
+        "prop_suffix": "blocks"
+      },
+      "156": {
+        "slug": "points",
+        "label": "Points Over/Under",
+        "short_label": "Points",
+        "prop_full_label": "Points",
+        "prop_short_label": "Pts",
+        "prop_suffix": "points"
+      },
+      "157": {
+        "slug": "rebounds",
+        "label": "Rebounds Over/Under",
+        "short_label": "Rebounds",
+        "prop_full_label": "Rebounds",
+        "prop_short_label": "Reb",
+        "prop_suffix": "rebounds"
+      },
+      "160": {
+        "slug": "steals",
+        "label": "Steals Over/Under",
+        "short_label": "Steals",
+        "prop_full_label": "Steals",
+        "prop_short_label": "Stl",
+        "prop_suffix": "steals"
+      },
+      "162": {
+        "slug": "threes",
+        "label": "Threes Over/Under",
+        "short_label": "3Pts Made",
+        "prop_full_label": "Three Points Made",
+        "prop_short_label": "3pts",
+        "prop_suffix": "threes"
+      },
+      "335": {
+        "slug": "points-assists",
+        "label": "Points + Assists Over/Under",
+        "short_label": "Points + Assists",
+        "prop_full_label": "Points + Assists",
+        "prop_short_label": "Pts + Ast",
+        "prop_suffix": "points + assists"
+      },
+      "336": {
+        "slug": "points-rebounds",
+        "label": "Points + Rebounds Over/Under",
+        "short_label": "Points + Rebounds",
+        "prop_full_label": "Points + Rebounds",
+        "prop_short_label": "Pts + Reb",
+        "prop_suffix": "points + rebounds"
+      },
+      "337": {
+        "slug": "rebounds-assists",
+        "label": "Rebounds + Assists Over/Under",
+        "short_label": "Rebounds + Assists",
+        "prop_full_label": "Rebounds + Assists",
+        "prop_short_label": "Reb + Ast",
+        "prop_suffix": "rebounds + assists"
+      },
+      "338": {
+        "slug": "points-assists-rebounds",
+        "label": "Points + Assists + Rebounds Over/Under",
+        "short_label": "Pts + Ast + Reb",
+        "prop_full_label": "Points + Assists + Rebounds",
+        "prop_short_label": "Pts + Ast + Reb",
+        "prop_suffix": "points + assists + rebounds"
+      }
+    }
+  }

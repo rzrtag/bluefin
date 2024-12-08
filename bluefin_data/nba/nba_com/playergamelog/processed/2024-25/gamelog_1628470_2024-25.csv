@@ -1,0 +1,7 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400047,2024-11-29,CHI vs. BOS,L,13.0,4,6,0.667,3,5,0.6,0,0,0.0,1,2,3,0,0,0,0,3,11,-4
+22400266,2024-11-23,CHI vs. MEM,L,8.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,3,0,-15
+22400253,2024-11-20,CHI @ MIL,L,28.0,6,10,0.6,3,7,0.429,0,0,0.0,2,4,6,2,1,1,0,2,15,-2
+22400241,2024-11-17,CHI vs. HOU,L,11.0,1,5,0.2,1,5,0.2,2,2,1.0,0,2,2,1,0,0,0,0,5,-7
+22400176,2024-11-06,CHI @ DAL,L,3.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,-4
+22400123,2024-10-30,CHI vs. ORL,W,3.0,0,1,0.0,0,1,0.0,0,0,0.0,0,2,2,0,0,0,0,1,0,2

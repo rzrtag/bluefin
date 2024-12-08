@@ -1,0 +1,10 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22300841,2024-02-27,OKC vs. HOU,W,2.0,1,2,0.5,0,0,0.0,0,0,0.0,1,0,1,0,1,0,0,0,2,-1
+22300809,2024-02-23,OKC vs. WAS,W,6.0,0,2,0.0,0,1,0.0,0,0,0.0,0,3,3,0,0,0,0,1,0,2
+22300695,2024-02-02,OKC vs. CHA,W,10.0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,1,1,0,-13
+22300654,2024-01-28,OKC @ DET,L,13.0,2,3,0.667,1,1,1.0,0,0,0.0,1,1,2,0,0,0,0,1,5,4
+22300640,2024-01-26,OKC @ NOP,W,2.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+22300622,2024-01-24,OKC @ SAS,W,5.0,0,2,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,1,0,0,-4
+22300617,2024-01-23,OKC vs. POR,W,5.0,0,0,0.0,0,0,0.0,0,0,0.0,1,0,1,1,0,0,0,1,0,-4
+22300529,2024-01-11,OKC vs. POR,W,18.0,2,5,0.4,0,1,0.0,0,0,0.0,1,2,3,2,0,0,2,1,4,13
+22300095,2023-10-29,OKC vs. DEN,L,6.0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2

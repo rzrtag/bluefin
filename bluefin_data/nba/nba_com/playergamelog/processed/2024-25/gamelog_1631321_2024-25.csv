@@ -1,0 +1,11 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400337,2024-12-06,SAS vs. SAC,L,4.0,0,1,0.0,0,0,0.0,0,2,0.0,0,2,2,0,0,0,0,0,0,-6
+22400331,2024-12-05,SAS vs. CHI,L,2.0,0,1,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+22400296,2024-11-27,SAS vs. LAL,L,4.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,1
+22400232,2024-11-16,SAS @ DAL,L,6.0,0,1,0.0,0,0,0.0,0,2,0.0,1,1,2,0,0,0,0,1,0,3
+22400216,2024-11-11,SAS vs. SAC,W,1.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,2
+22400183,2024-11-07,SAS vs. POR,W,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,0
+22400173,2024-11-06,SAS @ HOU,L,8.0,2,3,0.667,1,1,1.0,0,0,0.0,1,1,2,2,0,0,1,2,5,-2
+22400146,2024-11-02,SAS vs. MIN,W,1.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-5
+22400130,2024-10-31,SAS @ UTA,W,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,1,0,1
+22400125,2024-10-30,SAS @ OKC,L,3.0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,0,4

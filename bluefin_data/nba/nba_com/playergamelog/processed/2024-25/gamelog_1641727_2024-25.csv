@@ -1,0 +1,4 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400317,2024-12-02,BKN @ CHI,L,24.0,6,11,0.545,6,10,0.6,0,0,0.0,0,2,2,1,2,1,1,1,18,-3
+22400305,2024-12-01,BKN vs. ORL,L,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0
+22400098,2024-10-27,BKN vs. MIL,W,2.0,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,2,0,0,-4

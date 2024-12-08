@@ -1,0 +1,3 @@
+Failed to fetch projections: 401 Client Error: Unauthorized for url: https://basketball-sim.appspot.com/endpoints/get_player_projections
+Response text: 
+Failed to process 2024-12-01: 401 Client Error: Unauthorized for url: https://basketball-sim.appspot.com/endpoints/get_player_projections

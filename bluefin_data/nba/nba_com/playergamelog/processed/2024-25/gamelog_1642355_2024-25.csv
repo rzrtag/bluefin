@@ -1,0 +1,7 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400211,2024-11-10,LAL vs. TOR,W,2.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,0
+22400195,2024-11-08,LAL vs. PHI,W,1.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-4
+22400174,2024-11-06,LAL @ MEM,L,5.0,0,2,0.0,0,2,0.0,2,2,1.0,0,0,0,0,0,0,0,1,2,3
+22400137,2024-11-01,LAL @ TOR,W,0.0,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+22400118,2024-10-30,LAL @ CLE,L,5.0,1,2,0.5,0,1,0.0,0,0,0.0,0,0,0,2,1,0,0,0,2,-2
+22400062,2024-10-22,LAL vs. MIN,W,3.0,0,2,0.0,0,1,0.0,0,0,0.0,1,0,1,0,0,0,0,0,0,-5

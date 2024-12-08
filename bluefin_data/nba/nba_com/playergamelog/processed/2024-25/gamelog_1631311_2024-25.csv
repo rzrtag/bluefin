@@ -1,0 +1,5 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400301,2024-11-30,PHI @ DET,W,3.0,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,3,0,0,-6
+22400274,2024-11-24,PHI vs. LAC,L,9.0,3,5,0.6,0,1,0.0,0,0,0.0,1,0,1,0,0,0,1,0,6,-5
+22400195,2024-11-08,PHI @ LAL,L,2.0,1,1,1.0,0,0,0.0,1,1,1.0,1,1,2,0,0,0,0,0,3,4
+22400066,2024-10-23,PHI vs. MIL,L,3.0,0,1,0.0,0,1,0.0,0,0,0.0,1,0,1,1,0,0,0,0,0,3

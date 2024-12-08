@@ -1,0 +1,8 @@
+game_id,game_date,matchup,win_loss,minutes,field_goals_made,field_goals_attempted,field_goal_pct,three_pointers_made,three_pointers_attempted,three_point_pct,free_throws_made,free_throws_attempted,free_throw_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,steals,blocks,turnovers,personal_fouls,points,plus_minus
+22400334,2024-12-06,LAL @ ATL,L,4.0,0,3,0.0,0,1,0.0,0,0,0.0,0,2,2,1,0,0,0,0,0,-7
+22400321,2024-12-04,LAL @ MIA,L,13.0,1,5,0.2,0,1,0.0,2,5,0.4,0,5,5,0,1,1,0,0,4,-17
+22400318,2024-12-02,LAL @ MIN,L,15.0,2,4,0.5,0,1,0.0,0,0,0.0,1,2,3,0,1,1,2,3,4,-20
+22400311,2024-12-01,LAL @ UTA,W,11.0,0,2,0.0,0,2,0.0,0,0,0.0,0,2,2,0,1,0,0,1,0,11
+22400296,2024-11-27,LAL @ SAS,W,3.0,1,1,1.0,0,0,0.0,0,0,0.0,0,0,0,0,1,0,0,0,2,-1
+22400270,2024-11-23,LAL vs. DEN,L,4.0,0,0,0.0,0,0,0.0,0,2,0.0,0,1,1,0,0,0,0,1,0,1
+22400231,2024-11-16,LAL @ NOP,W,4.0,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,1,0,-3
